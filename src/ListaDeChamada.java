@@ -46,20 +46,7 @@ public class ListaDeChamada {
             System.out.println(alunos.get(i) + " - " + falta.get(i));
         }
 
-}
-
-
-// Fechando o scanner
-       // scanner.close();
-
     }
 
 
-
-
-
-
-
-
-
-
+}
